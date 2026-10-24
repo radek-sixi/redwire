@@ -1,4 +1,4 @@
-// Copyright 2026 Radoslaw Brus. SPDX-License-Identifier: Apache-2.0
+// Copyright 2026 Radoslaw B. SPDX-License-Identifier: Apache-2.0
 
 // Tests for the WebSocket transport, against a real gorilla/websocket echo server. The behaviours
 // pinned are the ones that distinguish a persistent-connection transport from a request one: the

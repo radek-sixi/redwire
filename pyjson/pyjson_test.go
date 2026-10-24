@@ -1,4 +1,4 @@
-// Copyright 2026 Radoslaw Brus. SPDX-License-Identifier: Apache-2.0
+// Copyright 2026 Radoslaw B. SPDX-License-Identifier: Apache-2.0
 
 // Python and Go both emit valid JSON and disagree on the bytes. These pin the difference, because
 // the scan store keeps several fields as JSON STRINGS — there, the spacing IS the stored value.

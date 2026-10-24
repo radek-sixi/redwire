@@ -1,4 +1,4 @@
-// Copyright 2026 Radoslaw Brus. SPDX-License-Identifier: Apache-2.0
+// Copyright 2026 Radoslaw B. SPDX-License-Identifier: Apache-2.0
 
 // Behavioural tests for the REST transport.
 //

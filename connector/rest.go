@@ -1,4 +1,4 @@
-// Copyright 2026 Radoslaw Brus. SPDX-License-Identifier: Apache-2.0
+// Copyright 2026 Radoslaw B. SPDX-License-Identifier: Apache-2.0
 
 // Package connector holds the five transports that reach an AI agent: REST, MCP, A2A, WebSocket, and
 // a chat widget driven in a real browser. Each satisfies one Send interface, so an attack is written

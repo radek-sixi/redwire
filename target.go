@@ -1,4 +1,4 @@
-// Copyright 2026 Radoslaw Brus. SPDX-License-Identifier: Apache-2.0
+// Copyright 2026 Radoslaw B. SPDX-License-Identifier: Apache-2.0
 
 // Package redwire reaches an AI agent behind any of five transports through one interface.
 //
